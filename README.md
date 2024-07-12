@@ -13,6 +13,7 @@ Desenvolvi esse projeto API Rest com AUTH JWT e Documentação com SWAGGER.
 ## Funcionalidades
 
 - Authentication JWT Bearer
+- Tratamento Retorno API.
 - Documentação da API no Swagger
 
 ## Documentação da API
